@@ -1,0 +1,17 @@
+  body {
+    background-color: #FFF6EA;
+  }
+
+  hr {
+    border-style:none;
+    border-top-style: dotted;
+    border-width: 5px;
+    border-color: pink;
+    width: 5%;
+  }
+  h1 {
+    color: #66BFBF;
+  }
+  h2 {
+    color: #66BFBF;
+  }
